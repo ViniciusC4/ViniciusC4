@@ -12,15 +12,15 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusc4&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
     </td>
     <td>
-      <img src="assets/coding.gif" width="300" alt="Coding gif"/>
+      <img src="assets/coding.gif" width="275" alt="Coding gif"/>
     </td>
   </tr>
 </table>
 
 ## 🧑‍💻 Sobre mim
-- 🎓 19 anos, explorando o vasto mundo da **Tecnologia da Informação**  
+- 🎓 19 anos, explorando o vasto mundo da **Tecnologia da Informação**, pros proxímos, T.I  
 - 🎯 Meta: Me especializar em **Sistemas Gerenciadores de Banco de Dados (SGBDs)**  
-- 🤝 Valorizo **comunicação clara** e **transparência**
+- 🤝 Valorizo **comunicação clara**, **transparência**, **lealdade** e **comprometimento**
 
 ## 🌐 Meu Portfólio
 👉 [Acesse aqui meu Portfólio](https://viniciusc4.github.io/portifolio-vinicius-galvao/#)  

@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Eae</h1>
 
-<!--
-**ViniciusC4/ViniciusC4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de TI | 🚀 Focado em SGBDs | 🌱 Sempre aprendendo e evoluindo
+</p>
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do GitHub
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=viniciusc4&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusc4&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+- 🎓 19 anos, explorando o vasto mundo da **Tecnologia da Informação**  
+- 🎯 Meta: Me especializar em **Sistemas Gerenciadores de Banco de Dados (SGBDs)**  
+- 🤝 Valorizo **comunicação clara** e **transparência**
+
+## 🌐 Meu Portfólio
+👉 [Acesse aqui meu Portfólio](https://viniciusc4.github.io/portifolio-vinicius-galvao/#)  
+
+## 🤝 Conecte-se comigo
+<p>
+  <a href="https://www.linkedin.com/in/vinícius-galvão-546328304" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vinijobs5119@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## 🚀 Tecnologias
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,c,mysql,firebase,git,github,vscode" />
+</p>

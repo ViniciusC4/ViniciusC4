@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusc4&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="275" alt="Coding gif"/>
+      <img src="assets/coding.gif" width="300" alt="Coding gif"/>
     </td>
   </tr>
 </table>

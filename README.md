@@ -2,9 +2,10 @@
 
 <p align="center">
   💻 Estudante de TI | 🚀 Focado em SGBDs
+</p>
+<p align="center>"
   "Aquilo que não me mata, me fortalece."
 </p>
-
 ## 📊 Estatísticas do GitHub
 <table>
   <tr>

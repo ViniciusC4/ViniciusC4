@@ -1,10 +1,7 @@
 <h1 align="center">Eae</h1>
 
 <p align="center">
-  💻 Estudante de TI | 🚀 Focado em SGBDs
-</p>
-<p align="center>"
-  "Aquilo que não me mata, me fortalece."
+  💻 Estudante de TI | 🚀 Focado em SGBDs | "Aquilo que não me mata, me fortalece."
 </p>
 ## 📊 Estatísticas do GitHub
 <table>

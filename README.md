@@ -3,7 +3,7 @@
 <p align="center">
   💻 Estudante de TI | 🚀 Focado em SGBDs | "Aquilo que não me mata, me fortalece."
 </p>
-## 📊 Estatísticas do GitHub
+- Estatísticas do GitHub
 <table>
   <tr>
     <td>
